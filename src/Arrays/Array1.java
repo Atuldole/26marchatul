@@ -52,5 +52,8 @@ public class Array1 {
 		System.out.println("Heloo GitHUB");
 		
 	}
+	{
+		System.out.println("Heloo Atulllll");
+	}
 
 }
